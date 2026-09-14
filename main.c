@@ -3,5 +3,8 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    printf("Hello, world!\n");
+    int a;
+    printf("size of an int: %lu", sizeof(a));
+
+    return 0;
 }
