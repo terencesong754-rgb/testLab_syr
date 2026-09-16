@@ -9,4 +9,6 @@ int main()
     double b;
     printf("size of a float: %lu", sizeof(a));
     return 0;
+
+    printf("hello from main\n");
 }
