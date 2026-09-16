@@ -10,5 +10,5 @@ int main()
     printf("size of a float: %lu", sizeof(a));
     return 0;
 
-    printf("helloworld from feature\n");
+    printf("3.helloworld from main\n");
 }
